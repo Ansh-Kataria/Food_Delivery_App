@@ -5,4 +5,5 @@
 This project consists of :
 
 1) Home screen
-2) Popular food page
+2) Popular food detail page
+3) Recommended food detail page
